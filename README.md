@@ -86,5 +86,17 @@ Here are the tools I've used to be successful in my various roles over the last 
 </p>
 
 <hr style="width: 50%;"> </hr>
+
+<h2 id="education">Education</h2>
+<h3 id="master-of-science-in-astrophysics-gravitation-msc-">Master of Science in Astrophysics &amp; Gravitation (MSc.)</h3>
+<h4 id="university-of-waterloo-sept-2016-oct-2018">University of Waterloo | Sept 2016 - Oct 2018</h4>
+<p>Computationally simulated the role of water (H<sub>2</sub><sup>16</sup>O &amp; H<sub>2</sub><sup>18</sup>O) in the formation of intermediate mass stars. Analysis used spectral data from the NGC 7129 reflection nebula, a Monte Carlo radiative transfer FORTRAN program called &quot;RATRAN&quot;, and python.</p>
+<p><a href="https://uwspace.uwaterloo.ca/handle/10012/13855">Thesis</a>, <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ab612c/pdf">Article</a>, <a href="https://educationnewscanada.com/article/education/level/university/1/891977/the-origin-of-water-on-planets-in-our-universe.html">Media</a></p>
+<h3 id="bachelor-of-science-with-honours-in-physics-astronomy-biophysics-minor-bsc-">Bachelor of Science with Honours in Physics &amp; Astronomy, Biophysics Minor (BSc.)</h3>
+<h4 id="university-of-waterloo-sept-2011-april-2015">University of Waterloo | Sept 2011 - April 2015</h4>
+<p>Developed a Python algorithm that simulates the assignment of telescope optical fibres to specific galactic targets based on a priority ranking system as well as proposed system restrictions.</p>
+<p><a href="https://www.linkedin.com/in/mollie-conrad-msc-a59248bb/overlay/51053930/single-media-viewer/">Thesis</a></p>
+
+
   
 
