@@ -49,7 +49,7 @@ Here are the tools I've used to be successful in my various roles over the last 
 <p align="center">
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/redis-%23FF4438?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-%23FF4438?style=flat-square&logo=redis&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img alt="MicrosoftSQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%2300A3EE?style=flat-square&logoColor=white" />
   <img alt="Jinja" src="https://img.shields.io/badge/Jinja-%237E0C1B?style=flat-square&logo=jinja&logoColor=white" />
