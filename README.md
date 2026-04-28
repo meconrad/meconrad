@@ -4,7 +4,7 @@
   </a>
 </p>
 
-Hey there! Welcome to my personal github.
+Hey there! Welcome to my personal github. It's still very much a WIP as I work through committing examples of code that are similar to the work I've productionized over the years, but feel free to take a look at my coding style under the "Coding Examples" repo. In the meantime, here's more about me:
 
 I'm a senior data scientist / machine learning engineer / python developer / wearer of many hats with 8+ years of experience and an education in astrophysics. 
 
