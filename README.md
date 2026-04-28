@@ -4,7 +4,7 @@
   </a>
 </p>
 
-Hey there! Welcome to my personal github.
+Hey there! Welcome to my personal github. It's still very much a WIP as I work through committing examples of code that are similar to the work I've productionized over the years, but feel free to take a look at my coding style under the "Coding Examples" repo. In the meantime, here's more about me:
 
 I'm a senior data scientist / machine learning engineer / python developer / wearer of many hats with 8+ years of experience and an education in astrophysics. 
 
@@ -49,7 +49,7 @@ Here are the tools I've used to be successful in my various roles over the last 
 <p align="center">
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/redis-%23FF4438?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-%23FF4438?style=flat-square&logo=redis&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img alt="MicrosoftSQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%2300A3EE?style=flat-square&logoColor=white" />
   <img alt="Jinja" src="https://img.shields.io/badge/Jinja-%237E0C1B?style=flat-square&logo=jinja&logoColor=white" />
