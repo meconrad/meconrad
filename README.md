@@ -6,9 +6,9 @@
 
 Hey there! Welcome to my personal github.
 
-I'm a senior data scientist / machine learning engineer / python developer / wearer of many hats with 6-10 years of experience (depending on whether or not you count my computationally heavy astrophysics degrees as experience or not). 
+I'm a senior data scientist / machine learning engineer / python developer / wearer of many hats with 8+ years of experience and an education in astrophysics. 
 
-I've mostly worked in fact-paced, remote working environments, responsible for pieces of code all along the machine learning pipeline. I've spent loads of time on ETL, machine learning tasks, unit testing, and all the pieces of code that connect everything together into one smooth, automated pipeline, in both production and customer engagements. Like I said, wearer of many hats! 😄
+I've mostly worked in fast-paced, remote working environments, responsible for pieces of code all along the machine learning pipeline. I've spent loads of time on ETL, machine learning tasks, unit testing, and all the pieces of code that connect everything together into one smooth, automated pipeline, in both production and customer engagements. Like I said, wearer of many hats! 😄
 
 Here are the tools I've used to be successful in my various roles over the last 10 years:
 
@@ -19,6 +19,8 @@ Here are the tools I've used to be successful in my various roles over the last 
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?&style=flat-square&logo=kotlin&logoColor=white" />
   <img alt="PyTest" src="https://img.shields.io/badge/Pytest-%230A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+  <img alt="UnitTest" src="https://img.shields.io/badge/unittest-%232887D7?style=flat-square&logoColor=white" />
+  <img alt="MongoMock" src="https://img.shields.io/badge/mongomock-%232887D7?style=flat-square&logoColor=white" />
 </p>
 
 <p align="center"><strong>Data, Machine Learning, and Deep Learning</strong></p>
@@ -47,6 +49,7 @@ Here are the tools I've used to be successful in my various roles over the last 
 <p align="center">
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/redis-%23FF4438?style=flat-square&logo=redis&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img alt="MicrosoftSQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%2300A3EE?style=flat-square&logoColor=white" />
   <img alt="Jinja" src="https://img.shields.io/badge/Jinja-%237E0C1B?style=flat-square&logo=jinja&logoColor=white" />
@@ -87,6 +90,20 @@ Here are the tools I've used to be successful in my various roles over the last 
 
 <hr style="width: 50%;"> </hr>
 
+<h2 id="work">Interesting Work Projects</h2>
+<ul>
+  <li> Developed, deployed, and maintained ETL pipelines </li>
+  
+  <li> Shipped statistical anomaly detection algorithm to production, applied in several customer engagements </li>
+  
+  <li> Shipped unsupervised clustering algorithm to production, identifying seasonality in mining operations and guiding simulation software </li>
+  
+  <li> Rapid deployment of anomaly detection solutions for customer engagements </li>
+  
+  <li> Lead data scientist and back-end developer for a custom event analysis solution for global leading OEM </li>
+</ul>
+
+
 <h2 id="education">Education</h2>
 <h3 id="master-of-science-in-astrophysics-gravitation-msc-">Master of Science in Astrophysics &amp; Gravitation (MSc.)</h3>
 <h4 id="university-of-waterloo-sept-2016-oct-2018">University of Waterloo | Sept 2016 - Oct 2018</h4>
@@ -96,6 +113,14 @@ Here are the tools I've used to be successful in my various roles over the last 
 <h4 id="university-of-waterloo-sept-2011-april-2015">University of Waterloo | Sept 2011 - April 2015</h4>
 <p>Developed a Python algorithm that simulates the assignment of telescope optical fibres to specific galactic targets based on a priority ranking system as well as proposed system restrictions.</p>
 <p><a href="https://www.linkedin.com/in/mollie-conrad-msc-a59248bb/overlay/51053930/single-media-viewer/">Thesis</a></p>
+
+<p align="center"> Let's connect on LinkedIn! </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mollie-conrad-a59248bb">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 
   
